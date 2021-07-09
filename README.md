@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 #### Backend developer Java :zap:  
 #### Contact me [Vanesa Medina](https://www.linkedin.com/in/vanesa-medina-/)
+#
 ### Languages and Tools
 
  
