@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 <code><img height="35" src="https://image.flaticon.com/icons/png/512/226/226777.png"></code>
 <code><img height="30" src="https://repository-images.githubusercontent.com/233450313/aab78f80-432c-11ea-80f4-3eeebac4d126"></code>
 <code><img height="30" src="https://picodotdev.github.io/blog-bitix/assets/images/logotypes/spring.svg"></code>
-<code><img height="30" src="https://media.bitdegree.org/storage/media/images/2018/12/hibernate-interview-questions-logo.png"></code>
+<code><img height="35" src="https://media.bitdegree.org/storage/media/images/2018/12/hibernate-interview-questions-logo.png"></code>
