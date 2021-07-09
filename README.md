@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 -  **Contact me :** [Vanesa Medina](https://www.linkedin.com/in/vanesa-medina-/)
 
 <br/>
-<br/>
 ### Languages and Tools
 
  
