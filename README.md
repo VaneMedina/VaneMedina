@@ -1,5 +1,5 @@
 
-## Hi everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
 **VaneMedina/VaneMedina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 ![vaneGit3](https://user-images.githubusercontent.com/76893473/125148892-ddfa7280-e10b-11eb-93ea-8876ce12f2c3.png)
 
-#### Backend developer Java :zap:  
+#### I am a woman passionate about technology :zap:  
 #### Contact me [Vanesa Medina](https://www.linkedin.com/in/vanesa-medina-/)
 #
 ### Languages and Tools
