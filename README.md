@@ -1,4 +1,4 @@
-![Sin título-2](https://user-images.githubusercontent.com/76893473/125148541-69becf80-e109-11eb-8bf3-127c3fc9f355.png)
+
 ## Hi everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="file:///C:/Users/user/Documents/-/vaneGit.svg"/>
+![Sin título-2](https://user-images.githubusercontent.com/76893473/125148541-69becf80-e109-11eb-8bf3-127c3fc9f355.png)
 
 #### Backend developer Java :zap:  
 #### Contact me [Vanesa Medina](https://www.linkedin.com/in/vanesa-medina-/)
