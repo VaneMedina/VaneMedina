@@ -1,5 +1,3 @@
-![vaneGit3](https://user-images.githubusercontent.com/76893473/125148892-ddfa7280-e10b-11eb-93ea-8876ce12f2c3.png)
-
 
 ## Hi everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -17,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![vaneGit2-copia](https://user-images.githubusercontent.com/76893473/125148774-03d34780-e10b-11eb-9cd0-bcd44d887f21.png)
+![vaneGit3](https://user-images.githubusercontent.com/76893473/125148892-ddfa7280-e10b-11eb-93ea-8876ce12f2c3.png)
 
 #### Backend developer Java :zap:  
 #### Contact me [Vanesa Medina](https://www.linkedin.com/in/vanesa-medina-/)
