@@ -20,11 +20,7 @@ Here are some ideas to get you started:
 #
 ### Languages and Tools
 
-<div width= "300px" height="300px" background-color= "#f8edff" opacity = "1";
-background-image = "radial-gradient(#b44bf1 1.1500000000000001px, transparent 1.1500000000000001px), radial-gradient(#b44bf1 1.1500000000000001px, #f8edff 1.1500000000000001px)"
-background-size = "46px 46px";
-background-position = "0 0 23px 23px"
-></div>
+<div width= "300px" height="300px" background = "red"></div>
  
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
