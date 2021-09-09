@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![vaneGit3](https://user-images.githubusercontent.com/76893473/125148892-ddfa7280-e10b-11eb-93ea-8876ce12f2c3.png)
+![vaneGit3](https://raw.githubusercontent.com/VaneMedina/VaneMedina/main/portada-vane_Mesa%20de%20trabajo%201.png)
 
 #### I am a woman passionate about technology :zap:  
 #### Contact me [Vanesa Medina](https://www.linkedin.com/in/vanesa-medina-/)
